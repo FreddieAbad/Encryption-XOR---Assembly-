@@ -1,6 +1,6 @@
 # Trabajo-Final-Microprocesadores-Avanzados<br/>
-## Universidad de Cuenca - Facultad de Ingenieria - Carrera Ing Sistemas
-
+###### Universidad de Cuenca - Facultad de Ingenieria - Carrera Ing Sistemas
+###### Freddy L. Abad L.
 Funciones:<br/>
 - [x] Receptar todas las pulsacioens del teclado (4  en total)<br/>
 - [x] Ocultarlas tras un asterisco[*] <br/>
