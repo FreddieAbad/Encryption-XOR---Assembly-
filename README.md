@@ -10,7 +10,10 @@ Funciones:<br/>
 
 
 
-------
+======
+
+
+######
 
 ###### Universidad de Cuenca - Facultad de Ingenieria - Carrera Ing Sistemas
 ###### Freddy L. Abad L.
