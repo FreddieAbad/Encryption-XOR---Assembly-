@@ -1,4 +1,6 @@
 # Trabajo-Final-Microprocesadores-Avanzados<br/>
+## Universidad de Cuenca - Facultad de Ingenieria - Carrera Ing Sistemas
+
 Funciones:<br/>
 - [x] Receptar todas las pulsacioens del teclado (4  en total)<br/>
 - [x] Ocultarlas tras un asterisco[*] <br/>
