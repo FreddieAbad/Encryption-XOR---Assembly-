@@ -1,6 +1,5 @@
 # Trabajo-Final-Microprocesadores-Avanzados<br/>
-##Funciones:<br/>
-
+Funciones:<br/>
 _ Receptar todas las puslacioens del teclado (4 pulsaciones en total)<br/>
 _ Ocultarlas tras un asterisco (*)<br/>
 _ Encriptar (Metodo XOR) cada pulsacion de teclado<br/>
